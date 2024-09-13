@@ -1,0 +1,8 @@
+**/build
+**/install
+**/log
+**/bag
+**/test
+**/__pycache__
+**/.vscode
+core
