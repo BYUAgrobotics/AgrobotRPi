@@ -1,5 +1,6 @@
 //////////////////////////////////////////////////////////
 // Node: pid_control
+// Includes: pid.h, pid.cpp
 // Created by Nelson Durrant, Sep 2024
 //
 // PUBLISHERS:
