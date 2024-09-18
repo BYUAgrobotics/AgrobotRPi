@@ -2,7 +2,7 @@
 # Created by Nelson Durrant, Sep 2024
 
 ##########################################################
-# STARTS CONTROLLERS AND RECORDS A ROS2 BAG FILE
+# PUBLISHES TO INIT AND RECORDS A ROS2 BAG FILE
 # - Run this after running the 'start.sh' and 'test.sh'
 #   scripts
 # - Log files are saved in '~/bag' on the host machine
