@@ -12,8 +12,8 @@ class PID {
 
 public:
   PID();
-  void calibrate(float p, float i, float d, int min, int max, float timer_interval,
-              int adjust);
+  void calibrate(float p, float i, float d, int min, int max,
+                 float timer_interval, int adjust);
   int compute(float desired, float actual);
 
 private:
