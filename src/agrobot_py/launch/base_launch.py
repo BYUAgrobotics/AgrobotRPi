@@ -1,3 +1,8 @@
+##########################################################
+# Launch: base (bash param in 'start.sh')
+# Created by Nelson Durrant, Sep 2024
+##########################################################
+
 import launch
 import launch_ros.actions
 import launch_ros.descriptions
