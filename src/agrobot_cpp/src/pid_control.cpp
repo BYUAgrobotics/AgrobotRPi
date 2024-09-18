@@ -88,6 +88,7 @@ public:
 
 private:
   void init_callback(const std_msgs::msg::Empty::SharedPtr msg) {
+    (void)msg; // suppress unused parameter warning
     this->init_flag = true;
   }
 
