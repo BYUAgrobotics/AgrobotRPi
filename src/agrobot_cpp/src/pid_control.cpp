@@ -1,3 +1,15 @@
+//////////////////////////////////////////////////////////
+// Node: pid_control
+// Created by Nelson Durrant, Sep 2024
+//
+// PUBLISHERS:
+// - drive_command (agrobot_interfaces/msg/DriveCommand)
+// SUBSCRIBERS:
+// - init (std_msgs/msg/Empty)
+// - desired_distance (agrobot_interfaces/msg/DesiredDistance)
+// - range_data (agrobot_interfaces/msg/RangeData)
+//////////////////////////////////////////////////////////
+
 #include <chrono>
 #include <functional>
 #include <memory>
